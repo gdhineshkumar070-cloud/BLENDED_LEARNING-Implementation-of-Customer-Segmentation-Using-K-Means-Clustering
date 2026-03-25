@@ -116,10 +116,11 @@ plt.legend(title='Cluster')
 plt.show()
 
 
-```
+
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="837" height="673" alt="image" src="https://github.com/user-attachments/assets/f5df4f77-48b4-4e50-9a5c-2e7a147170e4" />
+<img width="1008" height="609" alt="image" src="https://github.com/user-attachments/assets/baaecab9-a5c8-48f9-8e94-16261d61e90a" />
 
 
 ## Result:
