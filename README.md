@@ -37,6 +37,7 @@ Examine and visualize the resulting clusters to interpret patterns and relations
 Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
 Developed by: G DHINESH KUMAR 
 RegisterNumber:212225240036
+~~~
 
 import os
 os.environ["OMP_NUM_THREADS"] = "1"  # Prevent MKL memory leak warning on Windows
@@ -117,7 +118,7 @@ plt.show()
 
 
 
-
+~~~
 ## Output:
 <img width="837" height="673" alt="image" src="https://github.com/user-attachments/assets/f5df4f77-48b4-4e50-9a5c-2e7a147170e4" />
 <img width="1008" height="609" alt="image" src="https://github.com/user-attachments/assets/baaecab9-a5c8-48f9-8e94-16261d61e90a" />
